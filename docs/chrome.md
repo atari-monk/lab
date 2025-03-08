@@ -1,3 +1,3 @@
 # Chrome Automation
 
-Scripts work if chrome is closed before running them.
+Scripts work if chrome is closed before running them.  
